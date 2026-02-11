@@ -1,2 +1,2 @@
 # Funneh Team
-- (funnehbrawl)[https://github.com/Funneh-Team/funnehbrawl]
+- [funnehbrawl](https://github.com/Funneh-Team/funnehbrawl)
